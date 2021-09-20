@@ -6,7 +6,7 @@
 ![InimicalPart's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=InimicalPart&theme=merko)
 
 <p align="center">
-Hello, My name is InimicalPart. I've been a programmer from almost 4 years now.
+Hi! I'm InimicalPart, a 15-year-old programmer who codes as a hobby and as a challenge.
 </p>
 
 
