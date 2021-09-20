@@ -9,11 +9,9 @@
 Hi! I'm InimicalPart, a 15-year-old programmer who codes as a hobby and as a challenge.
 </p>
 
-<p align="center">
-### Languages I know and have some experience in
+### Languages
   - Javascript (Vanilla & Node.JS)
   - Python
   - C#
   - HTML
   - CSS
-</p>
