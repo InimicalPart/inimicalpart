@@ -3,7 +3,7 @@
 <br>
 ![InimicalPart's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InimicalPart&langs_count=8&layout=compact&theme=merko)
 <br>
-[![InimicalPart's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=InimicalPart&theme=merko)
+![InimicalPart's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=InimicalPart&theme=merko)
 
 <p align="center">
 Hello, My name is InimicalPart. I've been a programmer from almost 4 years now.
