@@ -11,7 +11,7 @@
    years old</p>
 </p>-->
 
-<!--Congrats! You found an easter egg. The code you see above will tell you my age very accurately. Unfortunately, inimicalpart.com isn't registered by me yet (but will soon :D)-->
+<!--Congrats! You found an easter egg. The code you see above will tell you my age very accurately. Unfortunately, inimicalpart.com isn't registered by me yet (but will be soon :D)-->
 <h3 align="left">
   inimicalpart-identity.js
 </h3>
