@@ -6,9 +6,14 @@
 <h4 align="center">
   Hi 👋! My name is InimicalPart and I work on front-end and back-end development. Feel free to message me on discord or by email if you want to make friends or if you have questions!
 </h4>
-  <!--<p align="center">When you clicked my profile, I was
-<img style="width:300px;height:23px;" src="https://inimicalpart.com/api/yearsOld"></img>
+
+<!--  <p align="center">When you clicked my profile, I was
+<img style="width:300px;height:23px;" src="https://inimicalpart.com/api/yearsOld?unit=years"></img>
    years old</p>
+</p>
+  <p align="center">My next birthday happens in
+<img style="width:170px;height:23px;" src="http://inimicalpart.com/api/yearsOld?unit=seconds"></img>
+   seconds</p>
 </p>-->
 
 <!--Congrats! You found an easter egg. The code you see above will tell you my age very accurately. Unfortunately, inimicalpart.com isn't registered by me yet (but will be soon :D)-->
