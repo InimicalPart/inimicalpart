@@ -10,11 +10,11 @@
 ##
 
 <p align="center">When you clicked my profile, I was
-<img style="width:300px;height:23px;" src="https://inimicalpart.com/api/yearsOld"></img>
+<img style="width:300px;height:23px;" title="My age in exact years" alt="Something broke." src="https://inimicalpart.com/api/yearsOld?unit=years"></img>
    years old</p>
 </p>
   <p align="center">My next birthday happens in
-<img style="width:170px;height:23px;" src="https://inimicalpart.com/api/yearsOld?unit=seconds"></img>
+<img style="width:170px;height:23px;" title="My next birthday in seconds" alt="Something broke." src="https://inimicalpart.com/api/yearsOld?unit=seconds"></img>
    seconds</p>
 </p>
 
@@ -45,15 +45,14 @@ class InimicalPart {
 ```
 <br>
 
-##
+<!-- ## -->
 
 
-<h3 align="center">
+<!--<h3 align="center">
   Random programming meme to make you happy :)
 </h3>
 <br>
-
 <p align="center">
 <img src='https://random-memer.herokuapp.com/' title="Random Meme" alt="Please refresh the page if the meme doesn't show up.">
-</p>
+</p>-->
 
