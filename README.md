@@ -10,11 +10,11 @@
 ##
 
 <p align="center">When you clicked my profile, I was
-<img style="width:300px;height:23px;" title="My age in exact years" alt="Sometimes this breaks, refresh the page" src="https://inimicalpart.com/img/years.png?itworksnow"></img>
+<img style="width:300px;height:23px;" title="My age in exact years" alt="Sometimes this breaks, refresh the page" src="https://inimicalpart.com/img/years.png?imsobadatthis"></img>
    years old</p>
 </p>
   <p align="center">My next birthday happens in 
-<img style="width:170px;height:23px;" title="My next birthday in seconds" alt="Sometimes this breaks, refresh the page" src="https://inimicalpart.com/img/seconds.png?itworksnow"></img>
+<img style="width:170px;height:23px;" title="My next birthday in seconds" alt="Sometimes this breaks, refresh the page" src="https://inimicalpart.com/img/seconds.png?imsobadatthis"></img>
    seconds</p>
 </p>
 
