@@ -36,7 +36,7 @@ class InimicalPart {
     this.username = "InimicalPart";
     this.pronouns = ["he", "him"];
     this.age = 15;
-    this.discord = "InimicalPart ©#4542";
+    this.discord = "InimicalPart ©#4542" || "Inimi#0565";
     this.email = "me@inimicalpart.com";
     this.worksOn = ["front-end", "back-end"];
   }
