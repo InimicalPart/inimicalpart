@@ -4,23 +4,22 @@
        </p>
  
 <h4 align="center">
-  Hi 👋! My name is InimicalPart and I work on front-end and back-end development. Feel free to message me on discord or by email if you want to make friends or if you have questions!
+  Hello! My name is InimicalPart (I usually go by Inimi) and I work on front-end and back-end development. I have created some projects, for example a <a href="https://inimicalpart.com">Discord Bot</a> for one of the servers that I moderate, <a href="https://inimicalpart.com">My personal website</a>, and some others! If you have a question to ask me or just want to talk then don't hesitate to contact me on my email (me@inimicalpart.com).
 </h4>
 
 ##
-
+<p align="center"><b>Some real-time information about me!</b></p>
+<br/>
 <p align="center">When you clicked my profile, I was
 <img style="width:300px;height:23px;" title="My age in exact years" alt="Loading... (or it broke, refresh your page)" src="https://inimicalpart.com/img/years.png?imsobadatthis"></img>
    years old</p>
 </p>
   <p align="center">My next birthday happens in 
-<img style="width:170px;height:23px;" title="My next birthday in seconds" alt="Loading... (or it broke, refresh your page)" src="https://inimicalpart.com/img/seconds.png?imsobadatthis"></img>
+<img style="height:23px;" title="My next birthday in seconds" alt="Loading... (or it broke, refresh your page)" src="https://inimicalpart.com/img/seconds.png?imsobadatthis"></img>
    seconds</p>
 </p>
 
 ##
-
-<!--Congrats! You found an easter egg. The code you see above will tell you my age very accurately. Unfortunately, inimicalpart.com isn't registered by me yet (but will be soon :D)-->
 <h3 align="left">
   inimicalpart-identity.js
 </h3>
