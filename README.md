@@ -15,7 +15,7 @@
    years old</p>
 </p>
   <p align="center">My next birthday happens in 
-<img style="height:23px;" title="My next birthday in seconds" alt="Loading... (or it broke, refresh your page)" src="https://inimicalpart.com/img/seconds.png?imsobadatthis"></img>
+<img style="width:170px;height:23px;" title="My next birthday in seconds" alt="Loading... (or it broke, refresh your page)" src="https://inimicalpart.com/img/seconds.png?imsobadatthis"></img>
    seconds</p>
 </p>
 
