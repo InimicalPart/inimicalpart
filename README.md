@@ -4,7 +4,7 @@
        </p>
  
 <h4 align="center">
-  Hello! My name is InimicalPart (I usually go by Inimi) and I work on front-end and back-end development. I have created some projects, for example a <a href="https://github.com/InimicalPart/TheIIIProject">Discord Bot</a> for one of the servers that I moderate, <a href="https://inimicalpart.com">My personal website</a>, and some others! If you have a question to ask me or just want to talk then don't hesitate to contact me on my email (me@inimicalpart.com).
+  Hello! My name is InimicalPart (I usually go by Inimi) and I work on front-end and back-end development. I have created some projects, for example a <a href="https://github.com/InimicalPart/TheIIIProject">Discord Bot</a> for one of the servers that I moderate, <a href="https://inimicalpart.com">My personal website</a>, and some others! If you have a question to ask me or just want to talk then don't hesitate to contact me on my email (<a href="mailto:me@inimicalpart.com?subject=Hello good friend c;">me@inimicalpart.com</a>).
 </h4>
 
 ##
@@ -31,8 +31,7 @@ const me = new InimicalPart();
 
 class InimicalPart {
   constructor() {
-    this.name = undefined;
-    this.username = "InimicalPart";
+    this.username = "Inimi" || "InimicalPart";
     this.pronouns = ["he", "him"];
     this.age = 15;
     this.discord = "Inimi#0565" || "InimicalPart#4542";
@@ -43,15 +42,4 @@ class InimicalPart {
 
 ```
 <br>
-
-<!-- ## -->
-
-
-<!--<h3 align="center">
-  Random programming meme to make you happy :)
-</h3>
-<br>
-<p align="center">
-<img src='https://random-memer.herokuapp.com/' title="Random Meme" alt="Please refresh the page if the meme doesn't show up.">
-</p>-->
 
