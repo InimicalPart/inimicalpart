@@ -17,6 +17,9 @@
   <p align="center">My next birthday is in
 <img title="My next birthday in seconds" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?secondsLeft"></img>
    seconds</p>
+  <p align="center">Or in  
+<img title="My next birthday" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?prettyLeft"></img>
+   seconds</p>
 </p>
 
 ##
