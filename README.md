@@ -29,9 +29,9 @@
 ##
 
 ```javascript
-const me = new InimicalPart();
+const me = new Inimi();
 
-class InimicalPart {
+class Inimi {
   constructor() {
     this.username = "Inimi" || "InimicalPart";
     this.pronouns = ["he", "him"];
