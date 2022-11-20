@@ -1,13 +1,24 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.28
- filename: metrics.plugin.wakatime.svg
- token: NOT_NEEDED
- base: ""
- plugin_wakatime: yes
- plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
- plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
- use_mocked_data: yes
- output_action: none
- delay: 120
- user: InimicalPart
- plugins_errors_fatal: yes
+name: WakaTime
+on:
+  schedule: [{cron: "5 * * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  web-screenshot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.wakatime.svg
+         token: NOT_NEEDED
+         base: ""
+         plugin_wakatime: yes
+         plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+         plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+         use_mocked_data: yes
+         output_action: none
+         delay: 120
+         user: InimicalPart
+         plugins_errors_fatal: yes
