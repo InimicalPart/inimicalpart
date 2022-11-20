@@ -9,5 +9,5 @@
           use_mocked_data: yes
           output_action: none
           delay: 120
-          user: foxka
+          user: InimicalPart
           plugins_errors_fatal: yes
