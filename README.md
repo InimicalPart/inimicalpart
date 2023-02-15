@@ -19,6 +19,8 @@
    seconds</p>-->
   <p align="center">My next birthday is in <br>
 <img title="My next birthday" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?prettyLeft"></img></p>
+
+<p align="center"><sub <b>Want to implement this on your own profile or for other cases? <a href="mailto:me@inimicalpart.com?subject=RT Information Implementation&body=Hey there friend! Thanks for checking out my profile! Please remove this text and provide your birthday (as precise as possible) in the 'yyyy-mm-dd hh:mm:ss AM/PM' format! If you don't include AM/PM, I'll assume it's 24 hour time. I'll get back to you as soon as possible with how to set this up for your purpose. Thank you <3">Contact me</a>!</b></sub></p>
 </p>
 
 ##
