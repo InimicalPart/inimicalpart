@@ -11,12 +11,12 @@
 <p align="center"><b>Some real-time information about me!</b></p>
 <br>
 <p align="center">When you clicked my profile, I was<br>
-<img title="My age in exact years" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/img.png?years"></img><br>
+<img title="My age in exact years" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?years"></img><br>
    years old</p><br>
   <p align="center">My next birthday is in<br>
-<img title="My next birthday" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/img.png?prettyLeft"></img></p><br>
+<img title="My next birthday" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft"></img></p><br>
   <p align="center">I will be <b>18 years old</b> in<br>
-<img title="My next birthday" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/img.png?prettyLeft&untilAge=18"></img></p><br>
+<img title="My next birthday" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&untilAge=18"></img></p><br>
 <br>
 <p align="center"><sub <b>Want to implement this on your own profile or for other cases? <a href="mailto:me@inimicalpart.com?subject=RT Information Implementation&body=Hey there friend! Thanks for checking out my profile! Please remove this text and provide your birthday (as precise as possible) in the 'yyyy-mm-dd hh:mm:ss AM/PM' format! If you don't include AM/PM, I'll assume it's 24 hour time. I'll get back to you as soon as possible with how to set this up for your purpose. Thank you <3">Contact me</a>!</b></sub></p>
 </p>
