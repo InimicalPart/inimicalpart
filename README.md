@@ -17,18 +17,18 @@ I am a full-stack developer working on anything possible and love experimenting 
 
 #
 
-<p align="center">When you clicked my profile, I was<br>
-  <a href="#">
-    <img title="My age in exact years" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?years"/>
-  </a>
+<div align="center">
+  When you clicked my profile, I was<br>
+ 
+  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img.png?years)](#)
   <br> years old
-</p>
+</div>
 <br>
-<p align="center">I will be <b>18 years old</b> in<br>
-  <a href="#">
-    <img title="My next birthday" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&untilAge=18"/>
-  </a>
-</p>
+<div align="center">
+  I will be <b>18 years old</b> in<br>
+  
+  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img.png?prettyLeft&untilAge=18)](#)
+</div>
 
 #
 
