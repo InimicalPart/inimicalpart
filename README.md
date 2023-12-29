@@ -47,61 +47,61 @@ Take a look at some of my projects!
 
 <p align="center">
   I am available for freelance or contract work.<br>
-  Please feel free to reach out to me using one of my socials listed below if you have any projects that you would like me to consider.</p>
+  Please feel free to reach out to me using one of the contact methods listed below if you have any projects that you would like me to consider.</p>
   <p align="center">
   Below is everything that I am familiar with and happy to work with. For any questions please reach out.
 </p>
 <br>
-<p align="center">
+<div align="center">
+
+  [![Email](https://img.shields.io/badge/-me@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:me@inimicalpart.com)
+  [![Discord](https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff)](#)
+  <!--
   <a href="mailto:me@inimicalpart.com">
-    <img alt="Email" src="https://img.shields.io/badge/-me@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+    <img alt="Email" src="https://img.shields.io/badge/-me@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff">
   </a>
-  <img alt="Discord" src="https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff"/>
+  <a href="#">
+    <img alt="Discord" src="https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff"/>
+  </a>
 </p>
+-->
+</div>
 
 ---
+
 <br>
-<p align="center">
+<div align="center">
+
   <!-- lang -->
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-121212?style=for-the-badge&logo=typescript"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-121212?style=for-the-badge&logo=javascript"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-121212?style=for-the-badge&logo=python"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-121212?style=for-the-badge&logo=html5"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-121212?style=for-the-badge&logo=css3&logoColor=1055ff"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-121212?style=for-the-badge&logo=markdown"/><br>
-  <!-- operating systems -->
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-121212?style=for-the-badge&logo=windows"/>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-121212?style=for-the-badge&logo=linux"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-121212?style=for-the-badge&logo=ubuntu"/>
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-121212?style=for-the-badge&logo=raspberrypi"/>
-  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-121212?style=for-the-badge&logo=kalilinux"/>
-  <img alt="Debian" src="https://img.shields.io/badge/-Debian-121212?style=for-the-badge&logo=debian"/><br>
-  <!-- hosting service -->
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-121212?style=for-the-badge&logo=heroku"/>
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-121212?style=for-the-badge&logo=github"/><br>
-  <!-- js framework -->
-  <img alt="React" src="https://img.shields.io/badge/-React-121212?style=for-the-badge&logo=react"/>
-  <img alt="Electron" src="https://img.shields.io/badge/-Electron-121212?style=for-the-badge&logo=electron"/><br>
-  <!-- database -->
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=mongodb"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-121212?style=for-the-badge&logo=mysql"/><br>
-  <!-- version control -->
-  <img alt="Git" src="https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-121212?style=for-the-badge&logo=github"/><br>
-    <!-- package manager -->
-  <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-000?style=for-the-badge&logo=pnpm"/>
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-121212?style=for-the-badge&logo=npm"/><br>
-  <!-- css framework -->
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-121212?style=for-the-badge&logo=tailwind-css"/><br>
-  <!-- backend -->
-  <img alt="Express.JS" src="https://img.shields.io/badge/-Express.JS-121212?style=for-the-badge&logo=express"/><br>
-  <!-- runtime -->
-  <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-121212?style=for-the-badge&logo=node.js"/><br>
-  <!-- task management -->
-  <img alt="Trello" src="https://img.shields.io/badge/-Trello-121212?style=for-the-badge&logo=trello"/><br>
-  <!-- container -->
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-121212?style=for-the-badge&logo=docker"/><br>
-</p>
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-121212?style=for-the-badge&logo=typescript)](#)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=for-the-badge&logo=javascript)](#)
+  [![Python](https://img.shields.io/badge/-Python-121212?style=for-the-badge&logo=python)](#)
+  [![HTML5](https://img.shields.io/badge/-HTML5-121212?style=for-the-badge&logo=html5)](#)
+  [![CSS3](https://img.shields.io/badge/-CSS3-121212?style=for-the-badge&logo=css3&logoColor=1055ff)](#)
+  [![Markdown](https://img.shields.io/badge/-Markdown-121212?style=for-the-badge&logo=markdown)](#)<br> <!-- CUT -->
+  [![Windows](https://img.shields.io/badge/-Windows-121212?style=for-the-badge&logo=windows)](#)
+  [![Linux](https://img.shields.io/badge/-Linux-121212?style=for-the-badge&logo=linux)](#)
+  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-121212?style=for-the-badge&logo=ubuntu)](#)
+  [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-121212?style=for-the-badge&logo=raspberrypi)](#)
+  [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-121212?style=for-the-badge&logo=kalilinux)](#)
+  [![Debian](https://img.shields.io/badge/-Debian-121212?style=for-the-badge&logo=debian)](#)<br> <!-- CUT -->
+  [![Heroku](https://img.shields.io/badge/-Heroku-121212?style=for-the-badge&logo=heroku)](#)
+  [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121212?style=for-the-badge&logo=github)](#)<br> <!-- CUT -->
+  [![React](https://img.shields.io/badge/-React-121212?style=for-the-badge&logo=react)](#)
+  [![Electron](https://img.shields.io/badge/-Electron-121212?style=for-the-badge&logo=electron)](#)<br> <!-- CUT -->
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=mongodb)](#)
+  [![MySQL](https://img.shields.io/badge/-MySQL-121212?style=for-the-badge&logo=mysql)](#)<br> <!-- CUT -->
+  [![Git](https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git)](#)
+  [![GitHub](https://img.shields.io/badge/-GitHub-121212?style=for-the-badge&logo=github)](#)<br> <!-- CUT -->
+  [![pnpm](https://img.shields.io/badge/-pnpm-000?style=for-the-badge&logo=pnpm)](#)
+  [![NPM](https://img.shields.io/badge/-NPM-121212?style=for-the-badge&logo=npm)](#)<br> <!-- CUT -->
+  [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-121212?style=for-the-badge&logo=tailwind-css)](#)<br> <!-- CUT -->
+  [![Express.JS](https://img.shields.io/badge/-Express.JS-121212?style=for-the-badge&logo=express)](#)<br> <!-- CUT -->
+  [![Node.JS](https://img.shields.io/badge/-Node.JS-121212?style=for-the-badge&logo=node.js)](#)<br> <!-- CUT -->
+  [![Trello](https://img.shields.io/badge/-Trello-121212?style=for-the-badge&logo=trello)](#)<br> <!-- CUT -->
+  [![Docker](https://img.shields.io/badge/-Docker-121212?style=for-the-badge&logo=docker)](#)
+  
+</div>
 
 ```javascript
 const me = new Inimi();
