@@ -1,9 +1,8 @@
 
 <p align="center">
-  <picture>
+  <a href="#">
     <img src="https://i.imgur.com/tUlzphq.png">
-  </picture>
-
+  </a>
 </p>
 
 ---
@@ -19,16 +18,16 @@ I am a full-stack developer working on anything possible and love experimenting 
 #
 
 <p align="center">When you clicked my profile, I was<br>
-  <picture align="center">
+  <a href="#">
     <img title="My age in exact years" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?years"/>
-  </picture>
+  </a>
   <br> years old
 </p>
 <br>
 <p align="center">I will be <b>18 years old</b> in<br>
-  <picture align="center">
+  <a href="#">
     <img title="My next birthday" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&untilAge=18"/>
-  </picture>
+  </a>
 </p>
 
 #
