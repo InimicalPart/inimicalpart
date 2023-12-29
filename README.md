@@ -53,13 +53,9 @@ Take a look at some of my projects!
 <br>
 <p align="center">
   <a href="mailto:me@inimicalpart.com">
-    <picture align="center">
-      <img alt="Email" src="https://img.shields.io/badge/-me@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
-    </picture>
+    <img alt="Email" src="https://img.shields.io/badge/-me@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
-  <picture align="center">
-    <img alt="Discord" src="https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff"/>
-  </picture>
+  <img alt="Discord" src="https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff"/>
 </p>
 
 ---
