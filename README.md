@@ -1,7 +1,10 @@
 
-  <p align="center">
-  <img src="https://i.imgur.com/tUlzphq.png"
-       </p>
+<p align="center">
+  <picture>
+    <img src="https://i.imgur.com/tUlzphq.png">
+  </picture>
+
+</p>
 
 ---
 
@@ -16,12 +19,16 @@ I am a full-stack developer working on anything possible and love experimenting 
 #
 
 <p align="center">When you clicked my profile, I was<br>
-  <img title="My age in exact years" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?years"/>
+  <picture align="center">
+    <img title="My age in exact years" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?years"/>
+  </picture>
   <br> years old
 </p>
 <br>
 <p align="center">I will be <b>18 years old</b> in<br>
-  <img title="My next birthday" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&untilAge=18"/>
+  <picture align="center">
+    <img title="My next birthday" alt="I broke something, hold on while I fix it" src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&untilAge=18"/>
+  </picture>
 </p>
 
 #
@@ -46,52 +53,82 @@ Take a look at some of my projects!
 </p>
 <br>
 <p align="center">
-<img alt="Email" src="https://img.shields.io/badge/-me@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
-<img alt="Discord" src="https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff"/>
+  <a href="mailto:me@inimicalpart.com">
+    <picture align="center">
+      <img alt="Email" src="https://img.shields.io/badge/-me@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+    </picture>
+  </a>
+  <picture align="center">
+    <img alt="Discord" src="https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff"/>
+  </picture>
 </p>
 
 ---
 <br>
 <p align="center">
-<!-- lang -->
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-121212?style=for-the-badge&logo=typescript"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-121212?style=for-the-badge&logo=javascript"/>
-<img alt="Python" src="https://img.shields.io/badge/-Python-121212?style=for-the-badge&logo=python"/>
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-121212?style=for-the-badge&logo=html5"/>
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-121212?style=for-the-badge&logo=css3&logoColor=1055ff"/>
-<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-121212?style=for-the-badge&logo=markdown"/><br>
-<!-- operating systems -->
-<img alt="Windows" src="https://img.shields.io/badge/-Windows-121212?style=for-the-badge&logo=windows"/>
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-121212?style=for-the-badge&logo=linux"/>
-<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-121212?style=for-the-badge&logo=ubuntu"/>
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-121212?style=for-the-badge&logo=raspberrypi"/>
-<img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-121212?style=for-the-badge&logo=kalilinux"/>
-<img alt="Debian" src="https://img.shields.io/badge/-Debian-121212?style=for-the-badge&logo=debian"/><br>
-<!-- hosting service -->
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-121212?style=for-the-badge&logo=heroku"/>
-<img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-121212?style=for-the-badge&logo=github"/><br>
-<!-- js framework -->
-<img alt="React" src="https://img.shields.io/badge/-React-121212?style=for-the-badge&logo=react"/>
-<img alt="Electron" src="https://img.shields.io/badge/-Electron-121212?style=for-the-badge&logo=electron"/><br>
-<!-- database -->
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=mongodb"/>
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-121212?style=for-the-badge&logo=mysql"/><br>
-<!-- version control -->
-<img alt="Git" src="https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git"/>
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-121212?style=for-the-badge&logo=github"/><br>
-  <!-- package manager -->
-<img alt="pnpm" src="https://img.shields.io/badge/-pnpm-000?style=for-the-badge&logo=pnpm"/>
-<img alt="NPM" src="https://img.shields.io/badge/-NPM-121212?style=for-the-badge&logo=npm"/><br>
-<!-- css framework -->
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-121212?style=for-the-badge&logo=tailwind-css"/><br>
-<!-- backend -->
-<img alt="Express.JS" src="https://img.shields.io/badge/-Express.JS-121212?style=for-the-badge&logo=express"/><br>
-<!-- runtime -->
-<img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-121212?style=for-the-badge&logo=node.js"/><br>
-<!-- task management -->
-<img alt="Trello" src="https://img.shields.io/badge/-Trello-121212?style=for-the-badge&logo=trello"/><br>
-<!-- container -->
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-121212?style=for-the-badge&logo=docker"/><br>
+  <!-- lang -->
+  <p align="center">
+    <picture><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-121212?style=for-the-badge&logo=typescript"/></picture>
+    <picture><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-121212?style=for-the-badge&logo=javascript"/></picture>
+    <picture><img alt="Python" src="https://img.shields.io/badge/-Python-121212?style=for-the-badge&logo=python"/></picture>
+    <picture><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-121212?style=for-the-badge&logo=html5"/></picture>
+    <picture><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-121212?style=for-the-badge&logo=css3&logoColor=1055ff"/></picture>
+    <picture><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-121212?style=for-the-badge&logo=markdown"/></picture>
+  </p>
+  <!-- operating systems -->
+  <p align="center">
+    <picture><img alt="Windows" src="https://img.shields.io/badge/-Windows-121212?style=for-the-badge&logo=windows"/></picture>
+    <picture><img alt="Linux" src="https://img.shields.io/badge/-Linux-121212?style=for-the-badge&logo=linux"/></picture>
+    <picture><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-121212?style=for-the-badge&logo=ubuntu"/></picture>
+    <picture><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-121212?style=for-the-badge&logo=raspberrypi"/></picture>
+    <picture><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-121212?style=for-the-badge&logo=kalilinux"/></picture>
+    <picture><img alt="Debian" src="https://img.shields.io/badge/-Debian-121212?style=for-the-badge&logo=debian"/></picture>
+  </p>
+  <!-- hosting service -->
+  <p align="center">
+    <picture><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-121212?style=for-the-badge&logo=heroku"/></picture>
+    <picture><img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-121212?style=for-the-badge&logo=github"/></picture>
+  </p>
+  <!-- js framework -->
+  <p align="center">
+    <picture><img alt="React" src="https://img.shields.io/badge/-React-121212?style=for-the-badge&logo=react"/></picture>
+    <picture><img alt="Electron" src="https://img.shields.io/badge/-Electron-121212?style=for-the-badge&logo=electron"/></picture>
+  </p>
+  <!-- database -->
+  <p align="center">
+    <picture><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=mongodb"/></picture>
+    <picture><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-121212?style=for-the-badge&logo=mysql"/></picture>
+  </p>
+  <!-- version control -->
+  <p align="center">
+    <picture><img alt="Git" src="https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git"/></picture>
+    <picture><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-121212?style=for-the-badge&logo=github"/></picture>
+  </p>
+    <!-- package manager -->
+  <p align="center">
+    <picture><img alt="pnpm" src="https://img.shields.io/badge/-pnpm-000?style=for-the-badge&logo=pnpm"/></picture>
+    <picture><img alt="NPM" src="https://img.shields.io/badge/-NPM-121212?style=for-the-badge&logo=npm"/></picture>
+  </p>
+  <!-- css framework -->
+  <p align="center">
+    <picture><img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-121212?style=for-the-badge&logo=tailwind-css"/></picture>
+  </p>
+  <!-- backend -->
+  <p align="center">
+    <picture><img alt="Express.JS" src="https://img.shields.io/badge/-Express.JS-121212?style=for-the-badge&logo=express"/></picture>
+  </p>
+  <!-- runtime -->
+  <p align="center">
+    <picture><img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-121212?style=for-the-badge&logo=node.js"/></picture>
+  </p>
+  <!-- task management -->
+  <p align="center">
+    <picture><img alt="Trello" src="https://img.shields.io/badge/-Trello-121212?style=for-the-badge&logo=trello"/></picture>
+  </p>
+  <!-- container -->
+  <p align="center">
+    <picture><img alt="Docker" src="https://img.shields.io/badge/-Docker-121212?style=for-the-badge&logo=docker"/></picture>
+  </p>
 </p>
 
 ```javascript
