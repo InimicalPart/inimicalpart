@@ -87,13 +87,13 @@ Take a look at some of my projects!
   [![Debian](https://img.shields.io/badge/-Debian-121212?style=for-the-badge&logo=debian)](#)<br> <!-- CUT -->
   [![Heroku](https://img.shields.io/badge/-Heroku-121212?style=for-the-badge&logo=heroku)](#)
   [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121212?style=for-the-badge&logo=github)](#)<br> <!-- CUT -->
-  [![React](https://img.shields.io/badge/-React-121212?style=for-the-badge&logo=react)](#)
+  [![NextJS](https://img.shields.io/badge/-NextJS-121212?style=for-the-badge&logo=next.js)](#)
   [![Electron](https://img.shields.io/badge/-Electron-121212?style=for-the-badge&logo=electron)](#)<br> <!-- CUT -->
   [![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=mongodb)](#)
   [![MySQL](https://img.shields.io/badge/-MySQL-121212?style=for-the-badge&logo=mysql)](#)<br> <!-- CUT -->
   [![Git](https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git)](#)
   [![GitHub](https://img.shields.io/badge/-GitHub-121212?style=for-the-badge&logo=github)](#)<br> <!-- CUT -->
-  [![pnpm](https://img.shields.io/badge/-pnpm-000?style=for-the-badge&logo=pnpm)](#)
+  [![pnpm](https://img.shields.io/badge/-pnpm-121212?style=for-the-badge&logo=pnpm)](#)
   [![NPM](https://img.shields.io/badge/-NPM-121212?style=for-the-badge&logo=npm)](#)<br> <!-- CUT -->
   [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-121212?style=for-the-badge&logo=tailwind-css)](#)<br> <!-- CUT -->
   [![Express.JS](https://img.shields.io/badge/-Express.JS-121212?style=for-the-badge&logo=express)](#)<br> <!-- CUT -->
