@@ -20,14 +20,14 @@ I am a full-stack developer working on anything possible and love experimenting 
 <div align="center">
   When you clicked my profile, I was<br>
  
-  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img.png?years)](#)
+  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img?years&font-size=35)](#)
   <br> years old
 </div>
 <br>
 <div align="center">
   I will be <b>18 years old</b> in<br>
   
-  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img.png?prettyLeft&untilAge=18)](#)
+  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img?prettyLeft&untilAge=18&font-size=35)](#)
 </div>
 
 #
