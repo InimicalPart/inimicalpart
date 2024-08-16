@@ -54,17 +54,8 @@ Take a look at some of my projects!
 <br>
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/-me@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:me@inimicalpart.com)
+  [![Email](https://img.shields.io/badge/-contact@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:contact@inimicalpart.com)
   [![Discord](https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff)](#)
-  <!--
-  <a href="mailto:me@inimicalpart.com">
-    <img alt="Email" src="https://img.shields.io/badge/-me@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff">
-  </a>
-  <a href="#">
-    <img alt="Discord" src="https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff"/>
-  </a>
-</p>
--->
 </div>
 
 ---
@@ -112,7 +103,7 @@ class Inimi {
     this.pronouns = ["he", "him"];
     this.age = 17;
     this.discord = "@theinimi";
-    this.email = "me@inimicalpart.com";
+    this.email = "contact@inimicalpart.com";
     this.worksWith = "Full-stack development";
     this.lookingForWork = true;
   }
