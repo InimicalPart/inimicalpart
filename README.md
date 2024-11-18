@@ -25,9 +25,9 @@ I am a full-stack developer working on anything possible and love experimenting 
 </div>
 <br>
 <div align="center">
-  I will be <b>18 years old</b> in<br>
-  
-  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img?prettyLeft&untilAge=18&font-size=35)](#)
+  My next birthday is in<br/>
+
+  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img?prettyLeft&font-size=35)](#)
 </div>
 
 #
