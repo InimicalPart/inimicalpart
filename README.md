@@ -55,7 +55,7 @@ Take a look at some of my projects!
 <div align="center">
 
   [![Email](https://img.shields.io/badge/-contact@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:contact@inimicalpart.com)
-  [![Discord](https://img.shields.io/badge/-@theinimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff)](#)
+  [![Discord](https://img.shields.io/badge/-@inimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff)](#)
 </div>
 
 ---
@@ -102,7 +102,7 @@ class Inimi {
     this.username = "Inimi" || "InimicalPart";
     this.pronouns = ["he", "him"];
     this.age = 18;
-    this.discord = "@theinimi";
+    this.discord = "@inimi";
     this.email = "contact@inimicalpart.com";
     this.worksWith = "Full-stack development";
     this.lookingForWork = true;
