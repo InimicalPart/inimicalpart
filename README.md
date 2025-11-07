@@ -40,9 +40,9 @@ Take a look at some of my projects!
 <table align="center">
     <tr><th width="5px">Name</th><th width="600px">Description</th><th>Link</th></tr>
     <tr><td align="center">QR-link</td><td>A system for making/managing highly dynamic QR-codes!</td><td align="center"><a href="https://github.com/InimicalPart/qr-link">GitHub</a></td></tr>
-    <tr><td align="center">IRIS</td><td>A very complex Discord bot written in TypeScript!</td><td align="center"><a href="https://github.com/Incoverse/IRIS">GitHub</a></td></tr>
+    <tr><td align="center">DrBot</td><td>A complex Discord bot written in TypeScript for a friend of mine!</td><td align="center"><a href="https://github.com/Incoverse/DrBot">GitHub</a></td></tr>
     <tr><td align="center">inimicalpart.com</td><td>My own personal website written in NextJS!</td><td align="center"><a href="https://github.com/InimicalPart/inimicalpart.com">GitHub</a><br><a href="https://inimicalpart.com">Website</a></td></tr>
-    <tr><td align="center">Real-time Age API</td><td>An API that allows someone to generate an image with information about their age or view it live, written in TypeScript!</td><td align="center"><a href="https://github.com/InimicalPart/inimicalpart.com/tree/main/src/app/api/v1/age">GitHub</a><br><a href="mailto:me@inimicalpart.com?subject=Real-time Age API Implementation&body=Hey there! Thanks for checking out my profile! Please remove this text and provide your birthday (as precise as possible) in the 'yyyy-mm-dd hh:mm:ss AM/PM TZ' format! If you don't include AM/PM, I'll assume it's 24 hour time. TZ stands for timezone, this is necessary for me to set the right time. I recommend doing GMT(+/-)X (e.g GMT+4) but typing in the timezone name (CEST or Europe/Berlin) works just as well. I'll get back to you as soon as possible with how to set this up for your purpose!">Implementation</a><br><sub>(Example above)</sub></td></tr>
+    <tr><td align="center">Real-time Age API</td><td>An API that allows someone to generate an image with information about their age or view it live, written in TypeScript!</td><td align="center"><a href="https://github.com/InimicalPart/inimicalpart.com/tree/main/src/app/api/v1/age">GitHub</a><br><sub>(Example above)</sub></td></tr>
 </table>
 <br>
 
@@ -77,12 +77,13 @@ Take a look at some of my projects!
   [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-121212?style=for-the-badge&logo=raspberrypi)](#)
   [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-121212?style=for-the-badge&logo=kalilinux)](#)
   [![Debian](https://img.shields.io/badge/-Debian-121212?style=for-the-badge&logo=debian)](#)<br> <!-- CUT -->
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=mongodb)](#)
+  [![SurrealDB](https://img.shields.io/badge/-SurrealDB-121212?style=for-the-badge&logo=surrealdb)](#)
+  [![MySQL](https://img.shields.io/badge/-MySQL-121212?style=for-the-badge&logo=mysql)](#)<br> <!-- CUT -->
   [![Heroku](https://img.shields.io/badge/-Heroku-121212?style=for-the-badge&logo=heroku)](#)
   [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121212?style=for-the-badge&logo=github)](#)<br> <!-- CUT -->
   [![NextJS](https://img.shields.io/badge/-NextJS-121212?style=for-the-badge&logo=next.js)](#)
   [![Electron](https://img.shields.io/badge/-Electron-121212?style=for-the-badge&logo=electron)](#)<br> <!-- CUT -->
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=mongodb)](#)
-  [![MySQL](https://img.shields.io/badge/-MySQL-121212?style=for-the-badge&logo=mysql)](#)<br> <!-- CUT -->
   [![Git](https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git)](#)
   [![GitHub](https://img.shields.io/badge/-GitHub-121212?style=for-the-badge&logo=github)](#)<br> <!-- CUT -->
   [![pnpm](https://img.shields.io/badge/-pnpm-121212?style=for-the-badge&logo=pnpm)](#)
