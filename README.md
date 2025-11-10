@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://i.imgur.com/tUlzphq.png">
+    <img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/0147efaa-5561-47d2-a83f-f2c7346febf0" />
   </a>
 </p>
 
