@@ -46,10 +46,11 @@ Take a look at some of my projects!
 </table>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   I am available for freelance or contract work.<br>
-  Please feel free to reach out to me using one of the contact methods listed below if you have any projects that you would like me to consider.</p>
-  <p align="center">
+  Please feel free to reach out to me using one of the contact methods listed below if you have any projects that you would like me to consider.
+</p> -->
+<p align="center">
   Below is everything that I am familiar with and happy to work with. For any questions please reach out.
 </p>
 <br>
@@ -107,7 +108,7 @@ class Inimi {
     this.discord = "@inimi";
     this.email = "contact@inimicalpart.com";
     this.worksWith = "Full-stack development";
-    this.lookingForWork = true;
+    this.currentlyEmployed = true;
   }
 }
 
