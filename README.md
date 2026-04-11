@@ -20,14 +20,14 @@ I am a full-stack developer working on anything possible and love experimenting 
 <div align="center">
   When you clicked my profile, I was<br>
  
-  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img?years&font-size=35)](#)
+  [![I broke something, hold on while I fix it](https://api.inimi.dev/v1/age/img?years&font-size=35)](#)
   <br> years old
 </div>
 <br>
 <div align="center">
   My next birthday is in<br/>
 
-  [![I broke something, hold on while I fix it](https://api.inimicalpart.com/v1/age/img?prettyLeft&font-size=35)](#)
+  [![I broke something, hold on while I fix it](https://api.inimi.dev/v1/age/img?prettyLeft&font-size=35)](#)
 </div>
 
 #
@@ -41,7 +41,7 @@ Take a look at some of my projects!
     <tr><th width="5px">Name</th><th width="600px">Description</th><th>Link</th></tr>
     <tr><td align="center">QR-link</td><td>A system for making/managing highly dynamic QR-codes!</td><td align="center"><a href="https://github.com/InimicalPart/qr-link">GitHub</a></td></tr>
     <tr><td align="center">Waiter</td><td>A complex Discord & Twitch bot written in TypeScript for a community I'm part in!</td><td align="center"><a href="https://github.com/Incoverse/Waiter">GitHub</a></td></tr>
-    <tr><td align="center">inimicalpart.com</td><td>My own personal website written in NextJS!</td><td align="center"><a href="https://github.com/InimicalPart/inimicalpart.com">GitHub</a><br><a href="https://inimicalpart.com">Website</a></td></tr>
+    <tr><td align="center">inimicalpart.com</td><td>My own personal website written in NextJS!</td><td align="center"><a href="https://github.com/InimicalPart/inimicalpart.com">GitHub</a><br><a href="https://inimi.dev">Website</a></td></tr>
     <tr><td align="center">Real-time Age API</td><td>An API that allows someone to generate an image with information about their age or view it live, written in TypeScript!</td><td align="center"><a href="https://github.com/InimicalPart/inimicalpart.com/tree/main/src/app/api/v1/age">GitHub</a><br><sub>(Example above)</sub></td></tr>
 </table>
 <br>
