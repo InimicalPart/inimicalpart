@@ -104,7 +104,7 @@ class Inimi {
   constructor() {
     this.username = "Inimi" || "InimicalPart";
     this.pronouns = ["he", "him"];
-    this.age = 19;
+    this.age = 20;
     this.discord = "@inimi";
     this.email = "contact@inimicalpart.com";
     this.worksWith = "Full-stack development";
