@@ -56,7 +56,7 @@ Take a look at some of my projects!
 <br>
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/-contact@inimicalpart.com-121212?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:contact@inimicalpart.com)
+  [![Email](https://img.shields.io/badge/-contact@inimi.dev-121212?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:contact@inimi.dev)
   [![Discord](https://img.shields.io/badge/-@inimi-121212?style=for-the-badge&logo=discord&logoColor=ffffff)](#)
 </div>
 
@@ -106,7 +106,7 @@ class Inimi {
     this.pronouns = ["he", "him"];
     this.age = 20;
     this.discord = "@inimi";
-    this.email = "contact@inimicalpart.com";
+    this.email = "contact@inimi.dev";
     this.worksWith = "Full-stack development";
     this.currentlyEmployed = true;
   }
